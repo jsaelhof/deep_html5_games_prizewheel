@@ -1,0 +1,138 @@
+{
+
+  "game": {
+    "displayName": "Prize Wheel"
+  },
+
+  "skins": {
+    "calm": {
+      "displayName": "Calm",
+      "description": "ADD DESCRIPTION"
+    },
+    "simplesilver": {
+      "displayName": "Simple - Silver",
+      "description": "ADD DESCRIPTION"
+    },
+    "simplegold": {
+      "displayName": "Simple - Gold",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicblackwhite": {
+      "displayName": "Black & White",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicblue": {
+      "displayName": "Blue",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicgreen": {
+      "displayName": "Green",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicorange": {
+      "displayName": "Orange",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicpink": {
+      "displayName": "Pink",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicpurple": {
+      "displayName": "Purple",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicred": {
+      "displayName": "Red",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicteal": {
+      "displayName": "Teal",
+      "description": "ADD DESCRIPTION"
+    },
+    "basicyellow": {
+      "displayName": "Yellow",
+      "description": "ADD DESCRIPTION"
+    },
+    "gameshow": {
+      "displayName": "Game Show",
+      "description": "ADD DESCRIPTION"
+    },
+    "gameshowblue": {
+      "displayName": "Game Show - Blue",
+      "description": "ADD DESCRIPTION"
+    },
+    "gameshowgold": {
+      "displayName": "Game Show - Gold",
+      "description": "ADD DESCRIPTION"
+    },
+    "gameshowgreen": {
+      "displayName": "Game Show - Green",
+      "description": "ADD DESCRIPTION"
+    },
+    "gameshowpurple": {
+      "displayName": "Game Show - Purple",
+      "description": "ADD DESCRIPTION"
+    },
+    "gameshowred": {
+      "displayName": "Game Show - Red",
+      "description": "ADD DESCRIPTION"
+    },
+    "gameshowsilver": {
+      "displayName": "Game Show - Silver",
+      "description": "ADD DESCRIPTION"
+    },
+    "shiny": {
+      "displayName": "Shiny",
+      "description": "ADD DESCRIPTION"
+    },
+    "neon": {
+      "displayName": "Neon",
+      "description": "ADD DESCRIPTION"
+    },
+    "valentines01": {
+      "displayName": "Valentine's Day",
+      "description": "ADD DESCRIPTION"
+    },
+    "easter01": {
+      "displayName": "Easter",
+      "description": "ADD DESCRIPTION"
+    },
+    "halloween01": {
+      "displayName": "Halloween",
+      "description": "ADD DESCRIPTION"
+    },
+    "blackfriday01": {
+      "displayName": "Black Friday",
+      "description": "ADD DESCRIPTION"
+    },
+    "celebration01": {
+      "displayName": "Celebration",
+      "description": "ADD DESCRIPTION"
+    },
+    "independence01": {
+      "displayName": "Independence Day",
+      "description": "ADD DESCRIPTION"
+    },
+    "spring01": {
+      "displayName": "Spring",
+      "description": "ADD DESCRIPTION"
+    },
+    "summer01": {
+      "displayName": "Summer",
+      "description": "ADD DESCRIPTION"
+    },
+    "autumn01": {
+      "displayName": "Autumn",
+      "description": "ADD DESCRIPTION"
+    },
+    "winter01": {
+      "displayName": "Winter",
+      "description": "ADD DESCRIPTION"
+    },
+    "christmas01": {
+      "displayName": "Christmas",
+      "description": "ADD DESCRIPTION"
+    }
+  }
+
+}

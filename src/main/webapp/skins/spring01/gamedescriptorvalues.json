@@ -1,0 +1,153 @@
+{
+  "data": {
+    "colors": {
+      "background": {
+        "value": "#000"
+      },
+      "win": {
+        "value": "#c9f4b6"
+      },
+      "winText": {
+        "value": "#6c0054"
+      },
+      "lose": {
+        "value": "#FFF4E6"
+      },
+      "loseText": {
+        "value": "#6c0054"
+      },
+      "colorize": {
+        "value": "#7300df"
+      }
+    },
+    "properties": {
+      "colorize": {
+        "value": false
+      },
+      "textShadows": {
+        "value": false
+      },
+      "lightEffects": {
+        "value": "Green_White"
+      }
+    },
+    "text": {
+      "prizetext1": {
+        "value": "10% Off"
+      },
+      "prizetext2": {
+        "value": "10% Off"
+      },
+      "prizetext3": {
+        "value": "10% Off"
+      },
+      "prizetext4": {
+        "value": "10% Off"
+      },
+      "prizetext5": {
+        "value": "10% Off"
+      },
+      "prizetext6": {
+        "value": "10% Off"
+      },
+      "losetext": {
+        "value": "Better Luck Next Time"
+      }
+    }
+  },
+  "files": {
+    "skin": [
+      {
+        "id": "logo",
+        "src": "assets/logo_1.png"
+      },
+      {
+        "id": "background",
+        "src": "assets/background_11.jpg"
+      },
+      {
+        "id": "wheel",
+        "src": "assets/wheel_1.png"
+      },
+      {
+        "id": "edgeshading",
+        "src": "assets/edgeshading_1.png"
+      },
+      {
+        "id": "prizebackground1",
+        "src": "assets/sectionbackground_27.jpg",
+        "removed": true
+      },
+      {
+        "id": "prizebackground2",
+        "src": "assets/sectionbackground_28.jpg",
+        "removed": true
+      },
+      {
+        "id": "prizebackground3",
+        "src": "assets/sectionbackground_30.jpg",
+        "removed": true
+      },
+      {
+        "id": "prizebackground4",
+        "src": "assets/sectionbackground_27.jpg",
+        "removed": true
+      },
+      {
+        "id": "prizebackground5",
+        "src": "assets/sectionbackground_28.jpg",
+        "removed": true
+      },
+      {
+        "id": "prizebackground6",
+        "src": "assets/sectionbackground_30.jpg",
+        "removed": true
+      },
+      {
+        "id": "losebackground",
+        "src": "assets/sectionbackground_29.jpg",
+        "removed": true
+      },
+      {
+        "id": "spokelight",
+        "src": "assets/spokelight_1.png"
+      },
+      {
+        "id": "light",
+        "src": "assets/light_1.png"
+      },
+      {
+        "id": "sectionlight",
+        "src": "assets/sectionlight_1.png"
+      },
+      {
+        "id": "arrow",
+        "src": "assets/arrow_5.png"
+      },
+      {
+        "id": "arrowbackground",
+        "src": "assets/arrowbackground_1.png"
+      },
+      {
+        "id": "spin",
+        "src": "assets/spin_1.png"
+      },
+      {
+        "id": "handle",
+        "src": "assets/handle_1.png"
+      },
+      {
+        "id": "sound/tick",
+        "src": "assets/sound/tick_1.mp3"
+      },
+      {
+        "id": "sound/win",
+        "src": "assets/sound/win_1.mp3"
+      },
+      {
+        "id": "sound/lose",
+        "src": "assets/sound/lose_1.mp3"
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "prizes": {
+    "min": 1,
+    "max": 6,
+    "prizeList": [
+      {
+        "prizeId": null,
+        "elements": {
+          "data": {
+            "colors": [],
+            "properties": [],
+            "text": ["prizetext1"]
+          },
+          "files": {
+            "skin": ["prizebackground1"]
+          }
+        }
+      },
+      {
+        "prizeId": null,
+        "elements": {
+          "data": {
+            "colors": [],
+            "properties": [],
+            "text": ["prizetext2"]
+          },
+          "files": {
+            "skin": ["prizebackground2"]
+          }
+        }
+      },
+      {
+        "prizeId": null,
+        "elements": {
+          "data": {
+            "colors": [],
+            "properties": [],
+            "text": ["prizetext3"]
+          },
+          "files": {
+            "skin": ["prizebackground3"]
+          }
+        }
+      },
+      {
+        "prizeId": null,
+        "elements": {
+          "data": {
+            "colors": [],
+            "properties": [],
+            "text": ["prizetext4"]
+          },
+          "files": {
+            "skin": ["prizebackground4"]
+          }
+        }
+      },
+      {
+        "prizeId": null,
+        "elements": {
+          "data": {
+            "colors": [],
+            "properties": [],
+            "text": ["prizetext5"]
+          },
+          "files": {
+            "skin": ["prizebackground5"]
+          }
+        }
+      },
+      {
+        "prizeId": null,
+        "elements": {
+          "data": {
+            "colors": [],
+            "properties": [],
+            "text": ["prizetext6"]
+          },
+          "files": {
+            "skin": ["prizebackground6"]
+          }
+        }
+      }
+    ],
+    "lose": {
+      "elements": {
+        "data": {
+          "colors": [],
+          "properties": [],
+          "text": ["losetext"]
+        },
+        "files": {
+          "skin": ["losebackground"]
+        }
+      }
+    }
+  },
+
+  "data": {
+    "colors": {
+      "background": {
+        "skill": "basic",
+        "value": null
+      },
+      "win": {
+        "skill": "basic",
+        "value": null
+      },
+      "winText": {
+        "skill": "basic",
+        "value": null
+      },
+      "lose": {
+        "skill": "basic",
+        "value": null
+      },
+      "loseText": {
+        "skill": "basic",
+        "value": null
+      },
+      "colorize": {
+        "skill": "basic",
+        "value": null
+      }
+    },
+    "properties": {
+      "colorize": {
+        "skill": "advanced",
+        "validation": {
+          "boolean": true
+        },
+        "value": null
+      },
+      "textShadows": {
+        "skill": "advanced",
+        "validation": {
+          "boolean": true
+        }
+      },
+      "lightEffects": {
+        "skill": "basic",
+        "validation": {
+          "limit": [
+            "Rainbow",
+            "Orange_White",
+            "Red_White",
+            "Yellow_White",
+            "Green_White",
+            "Teal_White",
+            "Blue_White",
+            "Magenta_White",
+            "White_Off",
+            "Orange_Blue",
+            "Red_Yellow",
+            "Blue_Magenta",
+            "Red_White_Blue"
+          ]
+        }
+      }
+    },
+    "text": {
+      "prizetext1": {
+        "skill": "hidden",
+        "value": null,
+        "removable": true,
+        "validation": {
+          "maxchars": 100
+        },
+        "editable": true
+      },
+      "prizetext2": {
+        "skill": "hidden",
+        "value": null,
+        "removable": true,
+        "validation": {
+          "maxchars": 100
+        },
+        "editable": true
+      },
+      "prizetext3": {
+        "skill": "hidden",
+        "value": null,
+        "removable": true,
+        "validation": {
+          "maxchars": 100
+        },
+        "editable": true
+      },
+      "prizetext4": {
+        "skill": "hidden",
+        "value": null,
+        "removable": true,
+        "validation": {
+          "maxchars": 100
+        },
+        "editable": true
+      },
+      "prizetext5": {
+        "skill": "hidden",
+        "value": null,
+        "removable": true,
+        "validation": {
+          "maxchars": 100
+        },
+        "editable": true
+      },
+      "prizetext6": {
+        "skill": "hidden",
+        "value": null,
+        "removable": true,
+        "validation": {
+          "maxchars": 100
+        },
+        "editable": true
+      },
+      "losetext": {
+        "skill": "basic",
+        "value": null,
+        "removable": true,
+        "validation": {
+          "maxchars": 100
+        },
+        "editable": true
+      }
+    }
+  },
+  "files": {
+    "skin": [
+      {
+        "id": "logo",
+        "skill": "basic",
+        "src": null,
+        "type": "image",
+        "logo": {
+          "auto": true,
+          "aspect": "horizontal"
+        },
+        "removable": true
+      },
+      {
+        "id": "background",
+        "skill": "basic",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "prizebackground1",
+        "skill": "advanced",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "prizebackground2",
+        "skill": "advanced",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "prizebackground3",
+        "skill": "advanced",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "prizebackground4",
+        "skill": "advanced",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "prizebackground5",
+        "skill": "advanced",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "prizebackground6",
+        "skill": "advanced",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "losebackground",
+        "skill": "advanced",
+        "src": null,
+        "type": "image",
+        "removable": true
+      },
+      {
+        "id": "wheel",
+        "skill": "advanced",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "arrow",
+        "skill": "advanced",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "arrowbackground",
+        "skill": "advanced",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "spin",
+        "skill": "advanced",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "handle",
+        "skill": "advanced",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "spokelight",
+        "skill": "hidden",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "light",
+        "skill": "hidden",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "sectionlight",
+        "skill": "hidden",
+        "src": null,
+        "type": "image"
+      },
+      {
+        "id": "sound/tick",
+        "skill": "advanced",
+        "src": null,
+        "type": "sound"
+      },
+      {
+        "id": "sound/win",
+        "skill": "advanced",
+        "src": null,
+        "type": "sound"
+      },
+      {
+        "id": "sound/lose",
+        "skill": "advanced",
+        "src": null,
+        "type": "sound"
+      }
+    ]
+  }
+}

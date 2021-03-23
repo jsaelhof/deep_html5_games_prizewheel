@@ -1,0 +1,120 @@
+data:
+  colors:
+    background:
+      label: Background
+      desc:
+    win:
+      label: Win Section Color
+      desc:
+    winText:
+      label: Win Section Text Color
+      desc:
+    lose:
+      label: Lose Section Color
+      desc:
+    loseText:
+      label: Lose Section Text Color
+      desc:
+    colorize:
+      label: Wheel Color
+      desc:
+  properties:
+    colorize:
+      label: Colorize
+      desc:
+    textShadows:
+      label: Text Shadows
+      desc:
+    lightEffects:
+      label: Light Effects Color
+      desc:
+      values:
+        Orange_White: Orange
+        Red_White: Red
+        Yellow_White: Yellow
+        Green_White: Green
+        Teal_White: Teal
+        Blue_White: Blue
+        Magenta_White: Magenta
+        White_Off: White
+        Rainbow: Rainbow
+        Orange_Blue: Orange & Blue
+        Red_Yellow: Red & Yellow
+        Blue_Magenta: Blue & Magenta
+        Red_White_Blue: Red, White & Blue
+  text:
+    prizetext1:
+      label: Prize 1 Text
+      desc:
+    prizetext2:
+      label: Prize 2 Text
+      desc:
+    prizetext3:
+      label: Prize 3 Text
+      desc:
+    prizetext4:
+      label: Prize 4 Text
+      desc:
+    prizetext5:
+      label: Prize 5 Text
+      desc:
+    prizetext6:
+      label: Prize 6 Text
+      desc:
+    losetext:
+      label: Lose Text
+      desc: This text appears in the sections that would lose if the wheel were to stop there. Don't worry, we won't let your visitors lose!
+
+files:
+  skin:
+    logo:
+      label: Logo
+      desc:
+    background:
+      label: Background
+      desc:
+    wheel:
+      label: Wheel
+      desc:
+    prizebackground1:
+      label: Prize 1 Background
+      desc:
+    prizebackground2:
+      label: Prize 2 Background
+      desc:
+    prizebackground3:
+      label: Prize 3 Background
+      desc:
+    prizebackground4:
+      label: Prize 4 Background
+      desc:
+    prizebackground5:
+      label: Prize 5 Background
+      desc:
+    prizebackground6:
+      label: Prize 6 Background
+      desc:
+    losebackground:
+      label: Lose Background
+      desc:
+    arrow:
+      label: Arrow Pointer
+      desc:
+    arrowbackground:
+      label: Arrow Pointer Background
+      desc:
+    spin:
+      label: Spin Icon
+      desc:
+    handle:
+      label: Handle
+      desc:
+    sound/tick:
+      label: Tick Sound
+      desc:
+    sound/win:
+      label: Win Sound
+      desc:
+    sound/lose:
+      label: Lose Sound
+      desc:

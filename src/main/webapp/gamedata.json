@@ -1,0 +1,11 @@
+{
+  "info": {
+    "gameId": "prizewheel",
+    "orientation": "portrait",
+    "width": 600
+  },
+
+  "skins": [
+    "basic"
+  ]
+}
